@@ -10,7 +10,7 @@ print(texto1.lower())
 texto1 = "hello, my name is David and I like to program in Python"
 print(texto1.capitalize())
 
-# Primera de todas las palabras en mayucula con title()
+# Primera de todas las palabras en mayucula con capitalize()
 texto1 = "hello, my name is David and I like to program in Python"
 print(texto1.title())
 
