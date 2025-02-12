@@ -1,13 +1,14 @@
 """
 keys() -> devuelve las claves (también sirve para iterar)
+values() -> devuelve todos los valores del dict
 get() -> devuelve el valor de una clave
 clear() -> elimina todos los elementos
 pop() -> elimina un elemento y devuelve el valor
-items() -> para iterar el dict
+items() -> para iterar el dict (devuelve una tupla por cada par key: value)
 """
 
 diccionario = {
-    "nombre": "David",
+    "nombre": "David", # con items() devuelve: ('Nombre': 'David')
     "apellido": "Jaramillo",
     "edad": 16
 }
