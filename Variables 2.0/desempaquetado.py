@@ -1,3 +1,4 @@
+
 # creando una tupla
 datos = ("David", "Jaramillo")
 
